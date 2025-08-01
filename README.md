@@ -20,7 +20,7 @@ This script automatically adds a `dark` class to the HTML root element of `chat.
    * Click on the Tampermonkey icon in your browser
    * Choose **"Create a new script"**
 
-3. **Replace the default code** with the contents of [script.js]()
+3. **Replace the default code** with the contents of [script.js](https://github.com/Space-00/Dark-Z/blob/main/script.js)
 
 4. **Save** the script (File → Save or `Ctrl+S` / `Cmd+S`)
 
