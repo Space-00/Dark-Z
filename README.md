@@ -13,6 +13,7 @@ This script automatically adds a `dark` class to the HTML root element of `chat.
 
    * [Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
    * [Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+   * [Opera](https://tampermonkey.net/?ext=dhdg&browser=opera)
    * [Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
 
 2. **Create a new script** in Tampermonkey:
