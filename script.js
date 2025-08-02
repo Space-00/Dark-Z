@@ -2,7 +2,7 @@
 // @name         Dark Z
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  This turns z.ai (chat.z.ai) website into darrk theme
+// @description  This turns z.ai (chat.z.ai) website into dark theme
 // @author       Space-00
 // @match        https://chat.z.ai/*
 // @icon         https://chat.z.ai/static/logoDark.svg
